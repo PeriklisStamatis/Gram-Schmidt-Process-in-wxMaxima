@@ -1,2 +1,2 @@
 # Gram-Schmidt-Process-in-wxMaxima
-The Gram-Schmidt Process, which is a method of constructing an orthonormal basis from a set of vectors in an inner product space, implemented in wxMaxima, using mainly my own block functions (when possible), made as a project for a Symbolic Math class
+The Gram-Schmidt Process, which is a method of constructing an orthonormal basis from a set of vectors in an inner product space, implemented in wxMaxima, along with various other introductory linear algebra concepts, using mainly my own block functions (when possible), made as a project/presentation for a Symbolic Math class I took during the 2024-2025 school year, as an undergraduate in the Maths Department of the University of Ioannina, with mr Athanasios Konstantinidis
